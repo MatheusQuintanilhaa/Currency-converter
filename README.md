@@ -7,7 +7,7 @@ O conversor foi desenvolvido usando as linguagens:
 - CSS
 - JavaScript
 ## Como visualizar
-Para visualizar o formulário basta acessar https://currency-converter-nu-five.vercel.app/ em seu navegador da web
+Para visualizar o conversor basta acessar https://currency-converter-nu-five.vercel.app/ em seu navegador da web
 
 ## Como contribuir
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
